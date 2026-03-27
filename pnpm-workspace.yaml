@@ -16,7 +16,7 @@ engineStrict: true
 
 catalogs:
   docs:
-    stylis: '4.2.0'
+    stylis: '4.3.6'
     '@emotion/cache': '^11.14.0'
     '@emotion/react': '^11.14.0'
     '@emotion/server': '^11.11.0'
